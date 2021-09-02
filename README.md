@@ -1,6 +1,6 @@
 # Hi There
 
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/860419570543099924.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St0na)](https://github.com/St0na/github-readme-stats)
 
