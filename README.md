@@ -1,6 +1,4 @@
-# Cronus
+# St0na
 
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/860419570543099924.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St0na)](https://github.com/St0na/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st0na)](https://github.com/st0na/github-readme-stats)
 
